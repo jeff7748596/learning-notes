@@ -15,7 +15,7 @@
     
 想要使用熱更新，需要先開啟`Catalog`
 
-![](/images/20240319162157.png)
+![](/Addressable資源管理/images/20240319162157.png)
 
 ## (二) GoogleCloud設定
 
@@ -27,11 +27,11 @@
 
 * GoogleCloud創一個專案並新增一個儲存桶
  
-![](/images/20240319165344.png)
+![](/Addressable資源管理/images/20240319165344.png)
 
 * 存取權設定統一，且公開
 
-![](/images/20240319165730.png)
+![](/Addressable資源管理/images/20240319165730.png)
 
 * 複製公開連結，取得`LoadPath`
   
@@ -39,7 +39,7 @@
 > 
 > 主要是要拿到公開連結
 
-![](/images/20240320092311.png)
+![](/Addressable資源管理/images/20240320092311.png)
 
 
 > 這邊複製公開連結後還需要刪除一些
@@ -71,27 +71,27 @@
 > 
 > 將其替換
 
-![](/images/20240319173254.png)
+![](/Addressable資源管理/images/20240319173254.png)
 
 > 剛才的路徑尾端記得要加上`[BuildTarget]`
 
-![](/images/20240319173517.png)
+![](/Addressable資源管理/images/20240319173517.png)
 
 * 將需要熱更的`Group`調整成雲端
 
-![](/images/20240319174522.png)
+![](/Addressable資源管理/images/20240319174522.png)
 
 
 ## (四) 執行Builb打包資源包
 
 * 選擇 `Default Build Script`
 
-![](/images/20240319163218.png)
+![](/Addressable資源管理/images/20240319163218.png)
     
 > 打包完後可以在`ServerData`裡找到`catalog`與`bundle`包
 
-![](/images/20240319163423.png)
-![](/images/20240319163517.png)
+![](/Addressable資源管理/images/20240319163423.png)
+![](/Addressable資源管理/images/20240319163517.png)
 
 * 上傳資源包
 
@@ -99,7 +99,7 @@
 > 
 > 這邊使用的平台是Android
 
-![](//images/20240319171310.png)
+![](/Addressable資源管理/images/20240319171310.png)
 
 > 上傳完後可以稍微測試一下
 > 
@@ -114,21 +114,21 @@
 
 * 按下`UpDate a Previous Build`
   
-![](/images/20240319175343.png)
+![](/Addressable資源管理/images/20240319175343.png)
 
 * 選擇`.bin`檔案
 
 > 因為我是Android平台，所以進入Android資料夾內
 
-![](/images/20240320094017.png)
+![](/Addressable資源管理/images/20240320094017.png)
 
 * 上傳更新後的資源包
 
 > 將新的`catalog`與`bundle`包上傳到相對的資料夾中
 
-![](/images/20240320095652.png)
+![](/Addressable資源管理/images/20240320095652.png)
 
-![](/images/20240320100125.png)
+![](/Addressable資源管理/images/20240320100125.png)
 
 ## (七) 雷點紀錄
 
