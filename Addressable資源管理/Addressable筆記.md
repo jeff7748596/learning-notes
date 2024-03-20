@@ -1,5 +1,7 @@
 # 基礎教學
 ---
+# 酷東西00
+
 > [Addressables基礎教學網址](https://unity.csdn.net/65b1ce6dd4226e0eb4272bdc.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NTA5OTEyOCwiZXhwIjoxNzEwOTE0ODY2LCJpYXQiOjE3MTAzMTAwNjYsInVzZXJuYW1lIjoibTBfNzQ5ODM0OTQifQ.2pNlKP6cWGK8u9qX00YrltYXgTuKgwN8ceWWNwvQrPc)
 > 
 > 說得很詳細
